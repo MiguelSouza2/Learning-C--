@@ -31,8 +31,7 @@ Cada exercício conta com explicações detalhadas sobre a função ou conceito 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-
+   git clone https://github.com/MiguelSouza2/Learning-CPP.git
 
 <br><br><br><br><br>
 <h1>Thanks to Professor Bruno from the CFBCursos channel for providing classes to create this material!</h1><br>
